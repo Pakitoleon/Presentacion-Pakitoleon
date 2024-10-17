@@ -10,7 +10,7 @@
 
 
 <table>
-  <thead align="center">
+  <thead align="left">
     <tr border: none;>
       <td><b>📘 Project</b></td>
       <td><b>⭐ Stars</b></td>
