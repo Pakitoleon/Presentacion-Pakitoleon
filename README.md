@@ -19,9 +19,9 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/Pakitoleon/differ"><b>Differ</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Pakitoleon/get_next_line-42-malaga/differ?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Pakitoleon/get_next_line-42-malaga/differ?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/Pakitoleon/get-next-line-42-malaga/"><b>Differ</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Pakitoleon/get_next_line-42-malaga/?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Pakitoleon/get_next_line-42-malaga/?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
       <td><a href="https://github.com/Pakitoleon/differ"><b>Simple c/c++</b></a></td>
