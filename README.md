@@ -24,7 +24,7 @@
       <td><img alt="Forks" src="https://img.shields.io/github/forks/Pakitoleon/differ?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/madushadhanushka/differ"><b>Simple SQLite</b></a></td>
+      <td><a href="https://github.com/Pakitoleon/differ"><b>Simple SQLite</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/Pakitoleon/simple-sqlite?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/Pakitoleon/simple-sqlite?style=flat-square&labelColor=343b41"/></td>
     </tr>
