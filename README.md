@@ -65,13 +65,22 @@
 
 <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Pakitoleon?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
 
-name: JavaScript snippet of the day
-uses: metrics@latest
+name: GitHub City
+uses: Pakitoleon
 with:
-  filename: metrics.plugin.code.svg
-  token: ${{ secrets.METRICS_TOKEN }}
+  filename: metrics.plugin.skyline.city.svg
+  token: NOT_NEEDED
   base: ""
-  plugin_code: yes
-  plugin_code_languages: javascript, typescript
-  plugin_code_load: 400
+  plugin_skyline: yes
+  plugin_skyline_year: 2024
+  plugin_skyline_frames: 8
+  plugin_skyline_quality: 1
+  plugin_skyline_settings: |
+    {
+      "url": "https://honzaap.github.io/GithubCity?name=${login}&year=${year}",
+      "ready": "[...document.querySelectorAll('.display-info span')].map(span => span.innerText).includes('${login}')",
+      "wait": 4,
+      "hide": ".github-corner, .footer-link, .buttons-options, .mobile-rotate, .display-info span:first-child"
+    }
+
 
