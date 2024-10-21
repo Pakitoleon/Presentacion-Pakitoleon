@@ -66,7 +66,7 @@
 <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Pakitoleon?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
 
 name: JavaScript snippet of the day
-uses: lowlighter/metrics@latest
+uses: metrics@latest
 with:
   filename: metrics.plugin.code.svg
   token: ${{ secrets.METRICS_TOKEN }}
