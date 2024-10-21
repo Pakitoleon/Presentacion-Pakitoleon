@@ -23,7 +23,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/Pakitoleon/differ"><b>Differ</b></a></td>
+      <td><a href="https://github.com/Pakitoleon/so_long"><b>so_long</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/Pakitoleon/so_long?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/Pakitoleon/so_long?style=flat-square&labelColor=343b41"/></td>
     </tr>
@@ -39,22 +39,22 @@
     </tr>
       <tbody>
     <tr>
-      <td><a href="https://github.com/Pakitoleon/differ"><b>Differ</b></a></td>
+      <td><a href="https://github.com/Pakitoleon/Push_swap"><b>Push_swap</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/Pakitoleon/Push_swap?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/Pakitoleon/Push_swap?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/Pakitoleon/differ"><b>Differ</b></a></td>
+      <td><a href="https://github.com/Pakitoleon/minitalk"><b>minitalk</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/Pakitoleon/minitalk?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/Pakitoleon/minitalk?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/Pakitoleon/differ"><b>Differ</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Pakitoleon/printf-42-malaga?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Pakitoleon/printf-42-malaga?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/Pakitoleon/printft-42-malaga"><b>printf</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Pakitoleon/printft-42-malaga?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Pakitoleon/printft-42-malaga?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/Pakitoleon/differ"><b>Differ</b></a></td>
+      <td><a href="https://github.com/Pakitoleon/Piscina-42-malaga"><b>Piscina-42-malaga</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/Pakitoleon/Piscina-42-malaga?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/Pakitoleon/Piscina-42-malaga?style=flat-square&labelColor=343b41"/></td>
     </tr>
