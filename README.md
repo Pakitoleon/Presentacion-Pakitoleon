@@ -78,7 +78,7 @@ with:
   plugin_skyline_settings: |
     {
       "url": "https://honzaap.github.io/GithubCity/?name=Pakitoleon&year=2024}",
-      "ready": "[...document.querySelectorAll('.display-info span')].map(span => span.innerText).includes('${login}')",
+      "ready": "[...document.querySelectorAll('.display-info span')].map(span => span.innerText).includes('${Pakitoleon}')",
       "wait": 4,
       "hide": ".github-corner, .footer-link, .buttons-options, .mobile-rotate, .display-info span:first-child"
     }
